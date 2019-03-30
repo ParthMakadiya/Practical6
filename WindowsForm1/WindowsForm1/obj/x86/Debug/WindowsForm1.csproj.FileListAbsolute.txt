@@ -1,0 +1,8 @@
+E:\16ce153\WindowsForm1\WindowsForm1\obj\x86\Debug\WindowsForm1.csprojResolveAssemblyReference.cache
+E:\16ce153\WindowsForm1\WindowsForm1\obj\x86\Debug\WindowsForm1.Properties.Resources.resources
+E:\16ce153\WindowsForm1\WindowsForm1\obj\x86\Debug\WindowsForm1.csproj.GenerateResource.Cache
+E:\16ce153\WindowsForm1\WindowsForm1\bin\Debug\WindowsForm1.exe
+E:\16ce153\WindowsForm1\WindowsForm1\bin\Debug\WindowsForm1.pdb
+E:\16ce153\WindowsForm1\WindowsForm1\obj\x86\Debug\WindowsForm1.exe
+E:\16ce153\WindowsForm1\WindowsForm1\obj\x86\Debug\WindowsForm1.pdb
+E:\16ce153\WindowsForm1\WindowsForm1\obj\x86\Debug\WindowsForm1.Form1.resources
